@@ -1,0 +1,16 @@
+body{
+    background-color: red;
+}
+h1{
+    color: yellow;
+    background-color: brown;
+    font-weight: 200;
+}
+input{
+    font-weight: 200;
+    height: 30%;
+    display: flex;
+}
+button{
+    background-color: green;
+}
